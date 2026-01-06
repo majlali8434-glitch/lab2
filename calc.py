@@ -14,7 +14,6 @@ elif operation == "/":
 else:
      resultat="Erreur (dividion pae zéro)"
 else:
-    resultat="opérateur invalide"
- print(f"Résultat :{resultat}")
- expect ValueError
-  print("Erreur : Veuillez entrer des nombres valides.")
+    resultat = "Opérateur invalide"
+
+print(f"Résultat : {resultat}")
